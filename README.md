@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I'm Saif, a passionate backend developer with expertise in building scalable and efficient web applications.
 
+<img src="profile-pic.jpg" alt="Profile Picture" width="200" align="right">
+
 ## About Me
 
 I have a strong background in backend development, focusing on designing and implementing robust APIs, optimizing database queries, and ensuring the overall performance and reliability of applications. I'm experienced in working with frameworks like Node.js and Express, and proficient in languages such as JavaScript and PHP.
