@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm Saif, a passionate backend developer with expertise in building scalable and efficient web applications.
 
-<img src="profile-pic.jpg" alt="Profile Picture" width="200" align="right">
+<img src="[profile-pic.jpg](https://avatars.githubusercontent.com/u/38750964?s=400&u=096ab4d1aefd2f12f83e53303453c9ffd4bedd70&v=4)" alt="Profile Picture" width="200" align="right">
 
 ## About Me
 
@@ -28,7 +28,7 @@ Feel free to reach out to me through the following channels:
 
 - Email: mdsaifalam96@gmail.com
 - LinkedIn: [Md Saif Alam](https://www.linkedin.com/in/mdsaifalam96)
-- Twitter: [@ss_alien_saif](https://twitter.com/ss_alien_saif)
-- HackerRank:[@mdsaifalam96] (https://www.hackerrank.com/mdsaifalam96)
+- Leetcode: https://leetcode.com/mdsaifalam96
+- HackerRank:[https://www.hackerrank.com/mdsaifalam96](https://www.hackerrank.com/mdsaifalam96?hr_r=1)
 
 I'm always open to new opportunities, collaborations, and interesting projects. Let's connect and create something amazing together! 🚀
