@@ -17,7 +17,6 @@ Here are some of the key skills and technologies I work with:
 - Databases: MongoDB, MySQL, PostgreSQL
 - API Development: RESTful APIs, GraphQL
 - Version Control: Git, GitHub
-- Testing: Jest, Mocha, Chai
 
 
 ## Contact
