@@ -1,31 +1,84 @@
-# Hi there! 👋
+# 👋 Hi, I'm Saif Alam
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdsaifalam96&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsaifalam96&color=blueviolet&style=flat-square" />
+</p>
 
-Welcome to my GitHub profile! I'm Saif, a passionate backend developer [backend developer](#backend-developer) with expertise in building scalable and efficient web applications.
+<p align="center">
+  🚀 Full Stack Developer | WordPress • React • Node.js • PHP  
+</p>
 
-## About Me
+---
 
-I have a strong background in backend development, focusing on designing and implementing robust APIs, optimizing database queries, and ensuring the overall performance and reliability of applications. I'm experienced in working with frameworks like Node.js and Express, and proficient in languages such as JavaScript and PHP.
+## 🧑‍💻 About Me
 
-## Skills
+I'm a **Full Stack Developer** specializing in **WordPress & React**, with strong backend expertise in **PHP & Node.js**.  
+I build **high-performance websites, scalable APIs, and modern web applications** with clean architecture and optimized performance.
 
-Here are some of the key skills and technologies I work with:
+💡 I focus on:
+- ⚡ Fast & SEO-friendly WordPress websites  
+- 🔥 Scalable backend systems & APIs  
+- 🎯 Clean UI with React  
+- 🧠 Performance & security optimization  
 
-- Languages: JavaScript, PHP
-- Backend Frameworks: Node.js, Express
-- Databases: MongoDB, MySQL, PostgreSQL
-- API Development: RESTful APIs, GraphQL
-- Version Control: Git, GitHub
+---
 
+## 🛠️ Tech Stack
 
-## Contact
+### 🚀 Frontend
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3, Tailwind  
 
-Feel free to reach out to me through the following channels:
+### ⚙️ Backend
+- Node.js, Express.js  
+- PHP (Core + WordPress)  
 
-- Email: mdsaifalam96@gmail.com
-- LinkedIn: [Md Saif Alam](https://www.linkedin.com/in/mdsaifalam96)
-- Leetcode: https://leetcode.com/mdsaifalam96
-- HackerRank:[https://www.hackerrank.com/mdsaifalam96](https://www.hackerrank.com/mdsaifalam96?hr_r=1)
+### 🗄️ Database
+- MongoDB  
+- MySQL  
+- PostgreSQL  
 
-I'm always open to new opportunities, collaborations, and interesting projects. Let's connect and create something amazing together! 🚀
+### 🔗 Others
+- REST APIs, GraphQL  
+- Git, GitHub  
+- Deployment & Hosting  
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Projects & Work**  
+👉 https://developer.digitalsampark.com/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsaifalam96&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaifalam96&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: mdsaifalam96@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mdsaifalam96  
+- 💻 LeetCode: https://leetcode.com/mdsaifalam96  
+- 🧠 HackerRank: https://www.hackerrank.com/mdsaifalam96  
+
+---
+
+## 💼 Open To Opportunities
+
+⭐ **WordPress Developer | React Developer | Full Stack Developer**  
+🚀 Available for freelance, remote jobs & collaborations  
+
+---
+
+<p align="center">
+  💡 "Building scalable systems & beautiful user experiences"
+</p>
