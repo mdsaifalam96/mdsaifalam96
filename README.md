@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e40c9,100:29cc61&amp;height=200&amp;section=header&amp;text=Md%20Saif%20Alam&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=WordPress%20%26%20PHP%20Developer&amp;descAlignY=58&amp;descColor=ccffcc" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e40c9,100:29cc61&amp;height=200&amp;section=header&amp;text=Md%20Saif%20Alam&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=WordPress%20%26%20PHP%20Developer&amp;descAlignY=58&amp;descColor=ccffcc" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:29cc61&height=200&section=header&text=Md%20Saif%20Alam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=WordPress%20%26%20PHP%20Developer&descAlignY=58&descColor=ccffcc)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mdsaifalam96&color=29cc61&style=flat-square&label=Profile+Views" />
