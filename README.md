@@ -1,12 +1,14 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e40c9,100:29cc61&amp;height=200&amp;section=header&amp;text=Md%20Saif%20Alam&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=WordPress%20%26%20PHP%20Developer&amp;descAlignY=58&amp;descColor=ccffcc" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mdsaifalam96&color=29cc61&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdsaifalam96&amp;color=29cc61&amp;style=flat-square&amp;label=Profile+Views" />
+  
   <img src="https://img.shields.io/badge/Experience-4.5%2B%20Years-29cc61?style=flat-square" />
+  
   <img src="https://img.shields.io/badge/Projects-70%2B%20Delivered-6e40c9?style=flat-square" />
+  
   <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-ff5828?style=flat-square" />
 </p>
 
