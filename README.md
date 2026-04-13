@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:29cc61&height=200&section=header&text=Md%20Saif%20Alam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=WordPress%20%26%20PHP%20Developer&descAlignY=58&descColor=ccffcc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Md%20Saif%20Alam&fontSize=50)
 
 ![views](https://komarev.com/ghpvc/?username=mdsaifalam96&color=29cc61&style=flat-square&label=Profile+Views)
 ![exp](https://img.shields.io/badge/Experience-4.5%2B%20Years-29cc61?style=flat-square)
